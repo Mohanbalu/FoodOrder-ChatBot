@@ -1,6 +1,6 @@
 
 
-`# FoodOrder Chatbot
+## FoodOrder Chatbot
 
 The FoodOrder Chatbot is an interactive chatbot that helps users find food recommendations based on their preferences and previous orders. It is built using HTML, CSS, JavaScript for the front end, and Python for the backend logic. Users can chat with the bot, get food recommendations, and place orders with ease.
 
@@ -14,7 +14,7 @@ The FoodOrder Chatbot is an interactive chatbot that helps users find food recom
 - **Frontend**:
  - HTML for page structure.
  - CSS for styling and creating an engaging user interface.
- - JavaScript for handling interactivity and communication between the frontend and backend.
+ - JavaScript for handling interactivity and communication between the front end and backend.
 
 - **Backend**:
  - Python for processing user input and generating food recommendations.
